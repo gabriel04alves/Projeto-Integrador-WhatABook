@@ -1,0 +1,8 @@
+colors: 
+
+original === vuejs
+#35524A === blue-grey darken-1
+#7D451B === brown darken-3
+#F1E0C5 === orange lighten-5
+#C9B79C === orange lighten-4
+#0FA3B1 === teal lighten-2
